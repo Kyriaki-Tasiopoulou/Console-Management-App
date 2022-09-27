@@ -1,0 +1,16 @@
+E:\kikiC#\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.exe.config
+E:\kikiC#\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.exe
+E:\kikiC#\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.pdb
+E:\kikiC#\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.csproj.AssemblyReference.cache
+E:\kikiC#\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.csproj.SuggestedBindingRedirects.cache
+E:\kikiC#\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.csproj.CoreCompileInputs.cache
+E:\kikiC#\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.exe
+E:\kikiC#\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.pdb
+C:\Users\Sentenced\Source\Repos\PrivateSchool\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.csproj.AssemblyReference.cache
+C:\Users\Sentenced\Source\Repos\PrivateSchool\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sentenced\Source\Repos\PrivateSchool\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.csproj.CoreCompileInputs.cache
+C:\Users\Sentenced\Source\Repos\PrivateSchool\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.exe.config
+C:\Users\Sentenced\Source\Repos\PrivateSchool\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.exe
+C:\Users\Sentenced\Source\Repos\PrivateSchool\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.pdb
+C:\Users\Sentenced\Source\Repos\PrivateSchool\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.exe
+C:\Users\Sentenced\Source\Repos\PrivateSchool\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.pdb
